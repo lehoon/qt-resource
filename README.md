@@ -1,0 +1,2 @@
+# qt-resource
+qt resource
